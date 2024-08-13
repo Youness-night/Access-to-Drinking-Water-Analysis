@@ -56,9 +56,5 @@ The project is divided into two main parts:
 - Calculating accurate Annual Rates of Change
 - Combining datasets for regional analysis
 
-## Key Insights
-- Sub-Saharan Africa faces significant challenges in water access, with projections indicating full access may not be achieved until around 2080 at current rates of change.
-- Rural areas generally show lower access to basic water services than urban areas, but some countries are making faster progress in rural areas.
-
 ## Acknowledgements
-This project was completed as part of the ExploreAI Academy Data Science Program, which was sponsored by Alx Africa and used WHO/UNICEF JMP data.
+This project was completed as part of the ExploreAI Academy Data Science Program, sponsored by Alx Africa.

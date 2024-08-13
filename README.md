@@ -58,7 +58,7 @@ The project is divided into two main parts:
 
 ## Key Insights
 - Sub-Saharan Africa faces significant challenges in water access, with projections indicating full access may not be achieved until around 2080 at current rates of change.
-- Rural areas generally show lower access to basic water services compared to urban areas, but some countries are making faster progress in rural areas.
+- Rural areas generally show lower access to basic water services than urban areas, but some countries are making faster progress in rural areas.
 
 ## Acknowledgements
-This project was completed as part of ExploreAI/Alx_Africa Data Science Program using data from WHO/UNICEF JMP.
+This project was completed as part of the ExploreAI Academy Data Science Program, which was sponsored by Alx Africa and used WHO/UNICEF JMP data.
